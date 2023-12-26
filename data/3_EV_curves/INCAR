@@ -3,7 +3,8 @@ System   =   mof
 ISTART   =   0
 ICHARG   =   2
 INIWAV   =   1
-ISPIN    =   2
+# ISPIN = 2 for the structures with Cobalt and Iron.
+ISPIN    =   1
 
 GGA      =   PE
 
@@ -22,6 +23,7 @@ KGAMMA   =   .TRUE.
 IVDW     =   12
 
 NSW      =   1000
+# ISIF is manually changed considering the purpose of calculation.
 ISIF     =   3
 IBRION   =   2
 ISYM     =   0
@@ -31,7 +33,7 @@ LPLANE   =   .TRUE.
 LREAL    =   Auto
 IALGO    =   38
 
-# MAGMOM is only used for the structures with Cobalt or Iron
+# MAGMOM is only used for the structures with Cobalt or Iron.
 MAGMOM = 64*0 3.5 3.5 3.5 3.5 40*0 16*0
 NUPDOWN = 12
 LORBIT = 11
