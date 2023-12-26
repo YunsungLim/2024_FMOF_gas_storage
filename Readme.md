@@ -1,7 +1,5 @@
 # Description for uploaded data
 
----
-
 This repository provides additional data associated with the manuscript "Data-Driven Design of Flexible Metal-Organic Frameworks for Gas Storage (Lim et al., 2024)". </br>
 
 There are two directories: 1) data and 2) scripts </br>
