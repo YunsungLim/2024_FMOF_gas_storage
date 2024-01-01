@@ -111,7 +111,7 @@ Highly recommend not to run following scripts in the original environment (in us
 ### 2.3 - 3_assets
 
 - .cif file of 3 representative framework (Co bdp, MIL53(Al), and MIL118) for running jupyter notebook named Identify_topo.ipynb in notebook directory.
-- Perl scripts file geometry optimzation of frameworks using Materials Studio
+- Perl scripts file for geometry optimzation of frameworks using Materials Studio
 
 ---
 
