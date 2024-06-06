@@ -119,7 +119,7 @@ Highly recommend not to run following scripts in the original environment (in us
 
 ## 3. Citations :page_with_curl:
 
-citation will be updated...
+[Y. Lim, B. Kim, and J. Kim*, Data-Driven Design of Flexible Metal-Organic Frameworks for Gas Storage, *Chem. Mater.*, 2024](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.4c00398)
 
 ---
 
